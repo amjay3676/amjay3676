@@ -1,5 +1,5 @@
 <!-- <p align="center"> 
-    <img width="200" src="assets/images/titleMemoji.png"> 
+    <img width="200" src="https://github.com/rathore-himanshu/rathore-himanshu/tree/main/assets/images/titleMemoji.png"> 
  </p> -->
 
 
@@ -24,7 +24,7 @@
 
 
 
-## Connect with me <img src="assets/images/Folded Hands Light Skin Tone.png" width="30">
+## Connect with me <img src="https://github.com/rathore-himanshu/rathore-himanshu/tree/main/assets/images/Folded Hands Light Skin Tone.png" width="30">
 
 <img width="170" align="left" src="https://raw.githubusercontent.com/rathore-himanshu/portfolio/main/images/profileThumb.png" />
 
@@ -40,7 +40,7 @@
 
 
 
-## Skills <img src="assets/images/Rocket.png" width="30">
+## Skills <img src="https://github.com/rathore-himanshu/rathore-himanshu/tree/main/assets/images/Rocket.png" width="30">
 
 In recent years, I've been working on new technologies and languages. These are the ones I've learned so far:
 
@@ -69,7 +69,7 @@ C|C++|Javascript|Python|Java|Scala|
 
 **Data & ML**
 
-<img width="40px" src="assets/icons/ApacheSpark.svg" />|<img width="40px" src="assets/icons/pandas.svg" />|<img width="40px" src="assets/icons/numpy.svg" />|<img width="40px" src="assets/icons/Scikit-learn.svg" />|<img width="40px" src="assets/icons/Keras.svg" />|<img width="40px" src="assets/icons/Matplotlib.svg" />
+<img width="40px" src="https://github.com/rathore-himanshu/rathore-himanshu/tree/main/assets/icons/ApacheSpark.svg" />|<img width="40px" src="https://github.com/rathore-himanshu/rathore-himanshu/tree/main/assets/icons/pandas.svg" />|<img width="40px" src="https://github.com/rathore-himanshu/rathore-himanshu/tree/main/assets/icons/numpy.svg" />|<img width="40px" src="https://github.com/rathore-himanshu/rathore-himanshu/tree/main/assets/icons/Scikit-learn.svg" />|<img width="40px" src="https://github.com/rathore-himanshu/rathore-himanshu/tree/main/assets/icons/Keras.svg" />|<img width="40px" src="https://github.com/rathore-himanshu/rathore-himanshu/tree/main/assets/icons/Matplotlib.svg" />
 |--|--|--|--|--|--|
 Apache Spark|Pandas|Numpy|Scikit-learn|Keras|Matplotlib|
 
@@ -82,11 +82,11 @@ npm|git|linux|VS Code|Vim|figma|illustrator|
 <br/>
 
 
-## Work & Education <img src="assets/images/Comet.png" width="30">
+## Work & Education <img src="https://github.com/rathore-himanshu/rathore-himanshu/tree/main/assets/images/Comet.png" width="30">
 
 <table align="center">
     <tr>
-        <td><img src ="assets/images/Man Technologist Light Skin Tone.png" width="70" ></td>
+        <td><img src ="https://github.com/rathore-himanshu/rathore-himanshu/tree/main/assets/images/Man Technologist Light Skin Tone.png" width="70" ></td>
         <td>
             <h4>Shallowfeet Consulting</h4>
             <pre>- Sr. Backend Developer 
@@ -103,7 +103,7 @@ npm|git|linux|VS Code|Vim|figma|illustrator|
 <table align="center">
     <tr>
         <td>
-            <img src="assets/images/School.png" width="60">
+            <img src="https://github.com/rathore-himanshu/rathore-himanshu/tree/main/assets/images/School.png" width="60">
         </td>
         <td>
             <h4>Rajasthan Technical University</h4>
@@ -118,7 +118,7 @@ npm|git|linux|VS Code|Vim|figma|illustrator|
   
 
 
-## Things I like to do in my free time <img src="assets/images/T-Rex.png" width="30">
+## Things I like to do in my free time <img src="https://github.com/rathore-himanshu/rathore-himanshu/tree/main/assets/images/T-Rex.png" width="30">
 <pre>Outside work, I love to
 - 🧑🏻‍💻 solve DSA problems
 - 🙏🏻 meditate and pray
@@ -127,12 +127,12 @@ npm|git|linux|VS Code|Vim|figma|illustrator|
 - 🎵 listen to spiritual podcasts/songs
 - 🌴 explore nature outdoors</pre>
 
-## Loved my work? <img src="assets/images/Heart on Fire.png" width="30">
+## Loved my work? <img src="https://github.com/rathore-himanshu/rathore-himanshu/tree/main/assets/images/Heart on Fire.png" width="30">
 
-<img src="assets/images/Star.png" width="25"/>&nbsp;[Give a star to this project](https://github.com/rathore-himanshu/rathore-himanshu) <br/>
-<img src="assets/images/Folded Hands Light Skin Tone.png" width="25"/>&nbsp;[Follow me on GitHub](https://github.com/rathore-himanshu)<br/>
-<img src="assets/images/Globe with Meridians.png" width="25"/>&nbsp;[Checkout my portfolio]()<br/>
-<img src="assets/images/Writing Hand Light Skin Tone.png" width="25"/>&nbsp;[Read my blogs]()<br/>
-<img src="assets/images/Hot Beverage.png" width="25"> [Buy me a coffee](https://www.buymeacoffee.com/himanshurathore) (Tired of drinking Tea)
+<img src="https://github.com/rathore-himanshu/rathore-himanshu/tree/main/assets/images/Star.png" width="25"/>&nbsp;[Give a star to this project](https://github.com/rathore-himanshu/rathore-himanshu) <br/>
+<img src="https://github.com/rathore-himanshu/rathore-himanshu/tree/main/assets/images/Folded Hands Light Skin Tone.png" width="25"/>&nbsp;[Follow me on GitHub](https://github.com/rathore-himanshu)<br/>
+<img src="https://github.com/rathore-himanshu/rathore-himanshu/tree/main/assets/images/Globe with Meridians.png" width="25"/>&nbsp;[Checkout my portfolio]()<br/>
+<img src="https://github.com/rathore-himanshu/rathore-himanshu/tree/main/assets/images/Writing Hand Light Skin Tone.png" width="25"/>&nbsp;[Read my blogs]()<br/>
+<img src="https://github.com/rathore-himanshu/rathore-himanshu/tree/main/assets/images/Hot Beverage.png" width="25"> [Buy me a coffee](https://www.buymeacoffee.com/himanshurathore) (Tired of drinking Tea)
 
-### Thanks for visiting!&nbsp;<img src="assets/images/Partying Face.png" width="25">
+### Thanks for visiting!&nbsp;<img src="https://github.com/rathore-himanshu/rathore-himanshu/tree/main/assets/images/Partying Face.png" width="25">
